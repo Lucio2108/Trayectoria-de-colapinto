@@ -1,5 +1,5 @@
 .fondo{
-    background-image:url(/static/img/fondo\ colapinto.jpg);
+    background-image:url(static/img/fondo\ colapinto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -65,7 +65,7 @@ a {
 
 
 .body2{
-     background-image:url(/static/img/karting.png);
+     background-image:url(static/img/karting.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -151,7 +151,7 @@ a {
 }
 
 .fondof4{
-    background-image:url(/static/img/f4.png);
+    background-image:url(static/img/f4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -216,7 +216,7 @@ a {
 }
 
 .fondof3{
-    background-image:url(/static/img/f3.png);
+    background-image:url(static/img/f3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -387,7 +387,7 @@ a {
 }
 
 .fondof2{
-    background-image:url(/static/img/f2.png);
+    background-image:url(static/img/f2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -461,7 +461,7 @@ a {
 }
 
 .fondof1{
-    background-image:url(/static/img/f1.png);
+    background-image:url(static/img/f1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
