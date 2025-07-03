@@ -1,0 +1,498 @@
+.fondo{
+    background-image:url(/static/img/fondo\ colapinto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+.header{
+    background: linear-gradient(to right, #0471FF, #FB36E1);
+height: 100px;
+margin: -1%;
+display:flex;
+justify-content: flex-start;
+align-items: center;
+}
+a {
+    font-size: 40px;
+    text-decoration: none;
+    padding: 0px 0px 0px 50px;
+    margin: 80px; 
+    color: white;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.home{
+    text-align: center;
+    color:#FB36E1;
+    padding: 0px 0px 100px 330px;
+    font-size: 40px;
+    
+    font-family: "Julius Sans One", sans-serif;
+     font-weight: 400;
+    font-style: normal;
+}
+   
+
+.home2{
+    text-align: center;
+    color:#0471FF;
+    padding: 0px 0px 100px 330px;
+     font-size: 40px;
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;       
+     font-style: normal;
+}
+
+
+
+
+
+.home3{
+    text-align: center;
+    color:white;
+    padding: 0px 0px 100px 330px;
+     font-size: 40px;
+     font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+
+.body2{
+     background-image:url(/static/img/karting.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.title{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitle{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.subsubtitle{
+    
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    padding:0px 1200px 0px 0px;
+    font-family: "Anonymous Pro", monospace;
+    font-weight: 700;
+    font-style: italic;
+    
+}
+
+.text{
+     
+    color:white;
+     padding:0px 800px 0px 0px;
+     font-size: 25px;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitle2{
+    color: white;
+    text-align: right;
+    font-size: 35px;
+    padding:0px 325px 0px 0px;
+    margin-top:-700px ;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subsubtitle2{
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    padding:0px 0px 0px 650px;
+    margin-top:-5px ;
+    font-family: "Anonymous Pro", monospace;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.text2{
+    color:white;
+     padding:0px 0px 0px 1250px;
+     font-size: 25px;
+     font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.imgkart{
+    margin: 0px 0px 0px 666px;
+}
+
+.fondof4{
+    background-image:url(/static/img/f4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titlef4{
+     color:white;
+    text-align: center;
+    font-size: 60px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitle2f4{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    padding:0px 0px 0px 950px;
+    margin-top:-950px ;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.text2f4{
+    color:white;
+     padding:0px 0px 0px 850px;
+     font-size: 25px;
+     font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.imgf4{
+    padding:0px 0px 0px 1400px;
+}
+
+.subsubtitle2f4{
+    color: white;
+    text-align: right;
+    font-size: 30px;
+    padding:0px 350px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subsubtitlef4{
+    
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+
+.fondof3{
+    background-image:url(/static/img/f3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titlef3{
+     color:white;
+    text-align: center;
+    font-size: 60px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.undertextf3{
+    color:white;
+    text-align: center;
+     font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight:bolder;
+}
+
+.undertitlef3{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitle2f3{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    padding:0px 0px 0px 600px;
+    margin-top:-415px ;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.img2f3{
+    padding:0px 0px 0px 900px;
+    margin-top: 0px;
+}
+
+.imgf3{
+    margin-top:-100px ;
+    padding:0px 0px 0px 100px;
+    margin-bottom: 100px;
+}
+
+.subtitlef3{
+    color: white;
+    text-align: left;
+    margin-top:0px;
+    font-size: 35px;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+.textf3{
+    color:white;
+     padding:0px 1220px 0px 0px;
+     font-size: 25px;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img3f3{
+    margin-bottom:-50px ;
+    padding: 0px 650px 0px 800px;
+}
+
+.subtitle2f3{
+    color: white;
+    text-align: right;
+    margin-top:-200px;
+    font-size: 35px;
+    padding:0px 0px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subtitle3f3{
+    color: white;
+    text-align: right;
+    margin-top:-750px;
+    font-size: 35px;
+    padding:0px 0px 0px 750px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.subtitle4f3{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    margin-top:0px ;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.subtitle5f3{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    margin-top:500px ;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.centertitlef3{
+    text-align: center;
+     color: white;
+     margin-top: 300px;
+     font-size: 35px;
+      font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.undertitle2f3{
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img4f3{
+    padding:0px 0px 0px 700px ;
+    margin-top: -200px;
+    margin-bottom: -200px;
+}
+
+.centertextf3{
+    text-align: center;
+     color: white;
+     margin-top: 100px;
+     font-size: 25px;
+     font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fondof2{
+    background-image:url(/static/img/f2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.titlef2{
+    color:white;
+    text-align: center;
+    font-size: 60px;
+     font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.subtitlef2{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+    padding:0px 650px 0px 0px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+
+}
+
+.textf2{
+     
+    color:white;
+     padding:0px 1200px 0px 0px;
+     font-size: 40px;
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.img1f2{
+    padding:0px 700px 0px 1200px;
+    margin-top: -700px;
+    margin-bottom: 300px;
+}
+
+.videof2{
+    padding:0px 150px 0px 1200px;
+    margin-top:-300px ;
+    border-radius: 28px;
+}
+
+.subtitle2f2{
+    color: white;
+    text-align: left;
+    font-size:35px;
+    padding:0px 0px 0px 1350px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.img2f2{
+    padding:0px 0px 0px 10px;
+    margin-top: -300px;
+    margin-bottom: 300px;
+}
+
+.img3f2{
+    padding:0px 0px 0px 1300px;
+    margin-top: -400px;
+    margin-bottom: 300px;
+}
+
+.fondof1{
+    background-image:url(/static/img/f1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img1f1{
+    padding:0px 0px 0px 1200px;
+    margin-top: -350px;
+    margin-bottom: 300px;
+}
+
+.subtitle2f1{
+    color: white;
+    text-align: left;
+    font-size:35px;
+    margin-top: -250px;
+    padding:0px 0px 0px 650px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.img2f1{
+    margin-top:-1000px ;
+}
+
+.img3f1{
+    margin-top:-00px ;
+    padding:0px 0px 0px 1400px;
+    width:400px ;
+}
+
+
